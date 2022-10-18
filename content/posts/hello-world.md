@@ -1,4 +1,4 @@
----
++++
 title = "Hello World"
 date = "2022-10-18T02:18:43+02:00"
 author = "Shane White"
@@ -11,7 +11,7 @@ showFullContent = false
 readingTime = false
 hideComments = false
 draft: false
----
++++
 
 # Hugo Example
 
