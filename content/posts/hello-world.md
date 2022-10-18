@@ -1,4 +1,4 @@
-+++
+---
 title = "Hello World"
 date = "2022-10-18T02:18:43+02:00"
 author = "Shane White"
@@ -6,12 +6,13 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]
 keywords = ["", ""]
-description = ""
+description = "about me"
 showFullContent = false
 readingTime = false
 hideComments = false
 draft: false
-+++
+---
+
 # Hugo Example
 
 This directory is a brief example of a [Hugo](https://gohugo.io/) app that can be deployed to Vercel with zero configuration.
