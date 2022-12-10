@@ -5,6 +5,7 @@ date: 2022-10-29 23:17:16 +0000
 categories: Hugo Development
 Path: $env:USERNAME\\HUGO\\hugo-site
 ---
+[![Deploy Hugo site to Pages](https://github.com/esz3tt/bio/actions/workflows/hugo.yml/badge.svg)](https://github.com/esz3tt/bio/actions/workflows/hugo.yml)
 # Some Placeholder
 ## PSScriptMenuGui
 
