@@ -10,7 +10,7 @@ description = "about me"
 showFullContent = false
 readingTime = false
 hideComments = false
-draft: false
+draft = false
 +++
 
 # Hugo Example
