@@ -2,11 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
+<<<<<<< HEAD
     <link>localhost/</link>
+=======
+    <link>https://example.com/</link>
+>>>>>>> main
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 18 Oct 2022 02:18:43 +0200</lastBuildDate><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
@@ -16,10 +21,30 @@
       <guid>localhost/posts/2022/10/hello-world/</guid>
       <description>Hugo Example This directory is a brief example of a Hugo app that can be deployed to Vercel with zero configuration.
 Deploy Your Own Deploy your own Hugo project with Vercel.
+=======
+    <lastBuildDate>Tue, 18 Oct 2022 02:18:43 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://example.com/posts/2022/10/hello-world/</link>
+      <pubDate>Tue, 18 Oct 2022 02:18:43 +0200</pubDate>
+      
+      <guid>https://example.com/posts/2022/10/hello-world/</guid>
+      <description>Hugo Example This directory is a brief example of a Hugo app that can be deployed to Vercel with zero configuration.
+Deploy Your Own Deploy your own Hugo project with Vercel.
+
+>>>>>>> main
 Live Example: https://hugo-template.vercel.app
 How We Created This Example To get started with Hugo for deployment with Vercel, you can use the Hugo CLI to initialize the project:
 $ hugo new site project-name </description>
     </item>
     
   </channel>
+<<<<<<< HEAD
 </rss>
+=======
+</rss>
+>>>>>>> main

@@ -1,12 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Terminal</title>
+<<<<<<< HEAD
         <link>localhost/posts/</link>
+=======
+        <link>https://example.com/posts/</link>
+>>>>>>> main
         <description>Recent content in Posts on Terminal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Tue, 18 Oct 2022 02:18:43 +0200</lastBuildDate>
+<<<<<<< HEAD
         <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
@@ -17,6 +22,19 @@
             <guid>localhost/posts/2022/10/hello-world/</guid>
             <description>Hugo Example This directory is a brief example of a Hugo app that can be deployed to Vercel with zero configuration.
 Deploy Your Own Deploy your own Hugo project with Vercel.
+=======
+        <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello World</title>
+            <link>https://example.com/posts/2022/10/hello-world/</link>
+            <pubDate>Tue, 18 Oct 2022 02:18:43 +0200</pubDate>
+            
+            <guid>https://example.com/posts/2022/10/hello-world/</guid>
+            <description>Hugo Example This directory is a brief example of a Hugo app that can be deployed to Vercel with zero configuration.
+Deploy Your Own Deploy your own Hugo project with Vercel.
+
+>>>>>>> main
 Live Example: https://hugo-template.vercel.app
 How We Created This Example To get started with Hugo for deployment with Vercel, you can use the Hugo CLI to initialize the project:
 $ hugo new site project-name </description>
@@ -28,8 +46,13 @@ $ hugo new site project-name </description>
 <p><em>Live Example: <a href="https://hugo-template.vercel.app">https://hugo-template.vercel.app</a></em></p>
 <h3 id="how-we-created-this-example">How We Created This Example</h3>
 <p>To get started with Hugo for deployment with Vercel, you can use the <a href="https://gohugo.io/commands/">Hugo CLI</a> to initialize the project:</p>
+<<<<<<< HEAD
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>$ hugo new site project-name
 </span></span></code></pre></div>]]></content>
+=======
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">$ hugo new site project-name
+</code></pre></div>]]></content>
+>>>>>>> main
         </item>
         
     </channel>
